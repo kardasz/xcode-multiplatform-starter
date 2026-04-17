@@ -1,0 +1,17 @@
+//
+//  ContentView.swift
+//  MultiplatformStarter
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        Color.white
+            .ignoresSafeArea()
+    }
+}
+
+#Preview {
+    ContentView()
+}
